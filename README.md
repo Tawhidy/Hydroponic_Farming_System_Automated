@@ -38,7 +38,7 @@ Below is the complete list of components required for this project:
 
 ## 2.1 Tools Required
 
-- Soldering iron & solder
+- Soldering iron, solder & solder wick
 - Wire strippers
 - Multimeter
 - Screwdriver set
