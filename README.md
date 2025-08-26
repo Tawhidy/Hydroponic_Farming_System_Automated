@@ -46,7 +46,7 @@ Below is the complete list of components required for this project:
 
 # 3. Circuit Diagram
 
-
+![alt text](https://github.com/Tawhidy/Hydroponic_Farming_System_Automated/blob/main/Electrical/Hydroponic_schematics.png)
 
 ## 3.1 Schematic Explanation
 
